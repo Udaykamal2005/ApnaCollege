@@ -1,0 +1,12 @@
+button:hover{
+    background-color: pink;
+    color:black;
+}
+button:active{
+    background-color: black;
+    color:white;
+}
+h1:hover{
+    background-color: black;
+    color:white;
+}
